@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nina B.!
 
-I'm an academically trained Data Scientist and Researcher, passionate about Python, SQL, Data Science!
+I'm trained Data Scientist and Product Researcher/Analyst, passionate about Python, SQL, Data Science and digital product related topics!
 
 - 🔭 I’m currently developing an AI-powered web-scraping model to automate data extraction and analysis
 - 🌱 I recently designed and developed a comprehensive SQL database and program that automatically scrapes personalized, most suitable job offers on the market, check it out [here](https://github.com/Nbryttel/python-sql-web_scraper)
