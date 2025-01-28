@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Nina B.!
-![Github icons](https://github.com/user-attachments/assets/81cb5d4d-9479-4d48-bf10-20663f6c4175)
 
 I'm an academically trained Data Scientist and Researcher, passionate about Python, SQL, Data Science!
 
@@ -9,8 +8,6 @@ I'm an academically trained Data Scientist and Researcher, passionate about Pyth
   - Send ideas to nbryttel@gmail.com
 
 ![drive sql video (1)](https://github.com/user-attachments/assets/4b950894-6614-446f-bcca-703cffe53c77)
-
-![Github icons Credits (1)](https://github.com/user-attachments/assets/ff005931-a969-4067-bec6-d9345a846786)
 
 <!--
 **Nbryttel/nbryttel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
