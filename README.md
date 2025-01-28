@@ -1,12 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Nina B.!
 
-Hi, I'm Nina B.!
 I'm an academically trained Data Scientist and Researcher, passionate about Python, SQL, Data Science!
 
 - 🔭 I’m currently developing an AI-powered web-scraping model to automate data extraction and analysis
 - 🌱 I recently designed and developed a comprehensive SQL database and program that automatically scrapes personalized, most suitable job offers on the market, check it out [here](https://github.com/Nbryttel/python-sql-web_scraper)
 - 👯 I’m looking to collaborate on exciting SQL and Python projects to build innovative solutions...
   - Send ideas to nbryttel@gmail.com
+
+![drive sql video (1)](https://github.com/user-attachments/assets/4b950894-6614-446f-bcca-703cffe53c77)
+
+![Github icons Credits (1)](https://github.com/user-attachments/assets/ff005931-a969-4067-bec6-d9345a846786)
+
 <!--
 **Nbryttel/nbryttel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
