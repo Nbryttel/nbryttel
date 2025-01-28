@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Nina B.!
+![Github icons](https://github.com/user-attachments/assets/81cb5d4d-9479-4d48-bf10-20663f6c4175)
 
 I'm an academically trained Data Scientist and Researcher, passionate about Python, SQL, Data Science!
 
